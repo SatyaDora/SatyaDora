@@ -4,6 +4,10 @@
 
 Maven is a powerful build automation tool used primarily for Java projects, but its capabilities extend far beyond. One of its most compelling features is the concept of **Maven Archetypes**, which are project templates that allow you to quickly set up a new project with a predefined structure and configuration. When combined with MuleSoft, a leading platform for building APIs and integrations, Maven Archetypes can significantly streamline the creation of MuleSoft API projects.
 
+<img width="393" alt="Maven" src="https://github.com/user-attachments/assets/ef634107-f4e2-478c-a269-fc14aa9860fc">
+
+
+
 ### Understanding MuleSoft API Projects ##
 **MuleSoft** is a comprehensive integration platform for connecting applications, data, and devices with APIs. In MuleSoft, API projects are fundamental as they provide the framework for building, deploying, and managing APIs. These projects often require a standard structure and set of configurations, which can be efficiently managed using Maven Archetypes.
 
